@@ -1,0 +1,2 @@
+# autopsy--curiosity--project-corvus--infrastructure-sovereignty
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'CURIOSITY: PROJECT CORVUS: Infrastructure Sovereignty' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC: -SKILLS: [system_design, resource_efficiency, monetization]METRICS:Coordination: 3Technical Complexity: 4Efficiency: 2Clarity: 3SUGGEST_UI: FalseSUORIGINAL ERROR LOGS:DeepSeek/AI model 
